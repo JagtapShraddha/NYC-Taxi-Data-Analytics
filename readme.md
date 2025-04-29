@@ -1,10 +1,6 @@
-#Project Partners
-	Shraddha Jagtap (23111019)
-	Dipali Ubale (23111013)
-	
-#Problem Statement -: 
 
-# NYC Taxi Data Analysis 
+
+# NYC Taxi Data Analytics
 
 This project analyzes trip records from NYC taxi services including Yellow, Green, and FHVHV (For-Hire Vehicle High Volume). The goal is to compare different taxi types based on trip distance, duration, pickup/drop time, and pricing for finding efficient taxi for the customer.
 
